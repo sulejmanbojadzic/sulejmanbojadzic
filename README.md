@@ -1,4 +1,3 @@
-![github](https://img.shields.io/badge/#3776AB)]
   ###  - 👋 Hi, I’m Sulejman Bojadzic .
  #### - 👀 I’m interested in Game Developing , Data Science , Machine Learning , Web Dev and more .
  #### - 🌱 I’m currently learning Python and other programming languages .
